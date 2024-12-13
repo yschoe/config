@@ -1,5 +1,5 @@
 stat file could be:
 
-MYSTAT0
-MYSTAT1 
+* MYSTAT0
+* MYSTAT1 
 
